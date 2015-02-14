@@ -1,0 +1,6 @@
+c:\users\lafferty\documents\visual studio 2013\Projects\MyMonitor\MyMonitor\bin\Debug\MyMonitor.exe.config
+c:\users\lafferty\documents\visual studio 2013\Projects\MyMonitor\MyMonitor\obj\Debug\MyMonitor.csprojResolveAssemblyReference.cache
+c:\users\lafferty\documents\visual studio 2013\Projects\MyMonitor\MyMonitor\bin\Debug\MyMonitor.exe
+c:\users\lafferty\documents\visual studio 2013\Projects\MyMonitor\MyMonitor\bin\Debug\MyMonitor.pdb
+c:\users\lafferty\documents\visual studio 2013\Projects\MyMonitor\MyMonitor\obj\Debug\MyMonitor.exe
+c:\users\lafferty\documents\visual studio 2013\Projects\MyMonitor\MyMonitor\obj\Debug\MyMonitor.pdb
