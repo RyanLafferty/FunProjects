@@ -1,0 +1,6 @@
+c:\users\lafferty\documents\visual studio 2013\Projects\PcPrank\PcPrank\bin\Debug\PcPrank.exe.config
+C:\Users\Lafferty\documents\visual studio 2013\Projects\PcPrank\PcPrank\bin\Debug\PcPrank.exe
+C:\Users\Lafferty\documents\visual studio 2013\Projects\PcPrank\PcPrank\bin\Debug\PcPrank.pdb
+C:\Users\Lafferty\documents\visual studio 2013\Projects\PcPrank\PcPrank\obj\Debug\PcPrank.csprojResolveAssemblyReference.cache
+C:\Users\Lafferty\documents\visual studio 2013\Projects\PcPrank\PcPrank\obj\Debug\PcPrank.exe
+C:\Users\Lafferty\documents\visual studio 2013\Projects\PcPrank\PcPrank\obj\Debug\PcPrank.pdb
